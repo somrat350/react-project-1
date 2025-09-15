@@ -7,25 +7,25 @@ import ProjectCard from "./ProjectCard";
 export default function Projects(){
   const projects = [
     {
-      image:"./images/assignment1.png",
+      image:"https://raw.githubusercontent.com/somrat350/react-project-1/refs/heads/main/public/images/assignment1.png",
       name:"Assignment no 1",
       desc:"This is my first assignment. It created by me. I use HTML and CSS for create this. This is not responsive.",
       liveLink:"https://somrat350.github.io/First-Assignment/"
     },
     {
-      image:"./images/assignment2.png",
+      image:"https://raw.githubusercontent.com/somrat350/react-project-1/refs/heads/main/public/images/assignment2.png",
       name:"Assignment no 2",
       desc:"This is my second assignment. It created by me. I use HTML, CSS and TAILWINDCSS for create this.",
       liveLink:"https://somrat350.github.io/Assignment-no2/"
     },
     {
-      image:"./images/assignment5.png",
+      image:"https://raw.githubusercontent.com/somrat350/react-project-1/refs/heads/main/public/images/assignment5.png",
       name:"Assignment no 5",
       desc:"This is my fifth assignment. It created by me. I use HTML, CSS, TAILWINDCSS and JAVASCRIPT for create this.",
       liveLink:"https://somrat350.github.io/Assignment-no5/"
     },
     {
-      image:"./images/assignment6.png",
+      image:"https://raw.githubusercontent.com/somrat350/react-project-1/refs/heads/main/public/images/assignment6.png",
       name:"Assignment no 6",
       desc:"This is my six assignment. It created by me. I use HTML, CSS, TAILWINDCSS and JAVASCRIPT for create this.",
       liveLink:"https://assignment-no6-green-tree.netlify.app/"
