@@ -1,31 +1,31 @@
 import ProjectCard from "./ProjectCard";
-import Assignment1 from "../public/images/assignment1.png"
-import Assignment2 from "../public/images/assignment2.png"
-import Assignment5 from "../public/images/assignment5.png"
-import Assignment6 from "../public/images/assignment6.png"
+// import Assignment1 from "../public/images/assignment1.png"
+// import Assignment2 from "../public/images/assignment2.png"
+// import Assignment5 from "../public/images/assignment5.png"
+// import Assignment6 from "../public/images/assignment6.png"
 
 export default function Projects(){
   const projects = [
     {
-      image:{Assignment1},
+      image:"./images/assignment1.png",
       name:"Assignment no 1",
       desc:"This is my first assignment. It created by me. I use HTML and CSS for create this. This is not responsive.",
       liveLink:"https://somrat350.github.io/First-Assignment/"
     },
     {
-      image:{Assignment2},
+      image:"./images/assignment2.png",
       name:"Assignment no 2",
       desc:"This is my second assignment. It created by me. I use HTML, CSS and TAILWINDCSS for create this.",
       liveLink:"https://somrat350.github.io/Assignment-no2/"
     },
     {
-      image:{Assignment5},
+      image:"./images/assignment5.png",
       name:"Assignment no 5",
       desc:"This is my fifth assignment. It created by me. I use HTML, CSS, TAILWINDCSS and JAVASCRIPT for create this.",
       liveLink:"https://somrat350.github.io/Assignment-no5/"
     },
     {
-      image:{Assignment6},
+      image:"./images/assignment6.png",
       name:"Assignment no 6",
       desc:"This is my six assignment. It created by me. I use HTML, CSS, TAILWINDCSS and JAVASCRIPT for create this.",
       liveLink:"https://assignment-no6-green-tree.netlify.app/"
