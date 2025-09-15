@@ -7,25 +7,25 @@ import Assignment6 from "./assets/assignment6.png"
 export default function Projects(){
   const projects = [
     {
-      image:Assignment1,
+      image:{Assignment1},
       name:"Assignment no 1",
       desc:"This is my first assignment. It created by me. I use HTML and CSS for create this. This is not responsive.",
       liveLink:"https://somrat350.github.io/First-Assignment/"
     },
     {
-      image:Assignment2,
+      image:{Assignment2},
       name:"Assignment no 2",
       desc:"This is my second assignment. It created by me. I use HTML, CSS and TAILWINDCSS for create this.",
       liveLink:"https://somrat350.github.io/Assignment-no2/"
     },
     {
-      image:Assignment5,
+      image:{Assignment5},
       name:"Assignment no 5",
       desc:"This is my fifth assignment. It created by me. I use HTML, CSS, TAILWINDCSS and JAVASCRIPT for create this.",
       liveLink:"https://somrat350.github.io/Assignment-no5/"
     },
     {
-      image:Assignment6,
+      image:{Assignment6},
       name:"Assignment no 6",
       desc:"This is my six assignment. It created by me. I use HTML, CSS, TAILWINDCSS and JAVASCRIPT for create this.",
       liveLink:"https://assignment-no6-green-tree.netlify.app/"
