@@ -1,8 +1,8 @@
 import ProjectCard from "./ProjectCard";
-import Assignment1 from "./assets/assignment1.png"
-import Assignment2 from "./assets/assignment2.png"
-import Assignment5 from "./assets/assignment5.png"
-import Assignment6 from "./assets/assignment6.png"
+import Assignment1 from "../public/images/assignment1.png"
+import Assignment2 from "../public/images/assignment2.png"
+import Assignment5 from "../public/images/assignment5.png"
+import Assignment6 from "../public/images/assignment6.png"
 
 export default function Projects(){
   const projects = [
